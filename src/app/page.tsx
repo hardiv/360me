@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { FeedbackForm } from "@/components/feedbackForm";
 import { FeedbackResponses } from "@/components/feedbackResponses";
 
